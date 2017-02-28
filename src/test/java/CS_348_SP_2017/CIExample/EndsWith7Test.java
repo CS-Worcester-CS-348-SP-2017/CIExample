@@ -10,6 +10,8 @@ public class EndsWith7Test {
 	public void testToString() {
 		EndsWith7 seven = new EndsWith7();
 		assertEquals("EndsWith7 [names=Hung Huynh\n]", seven.toString());
+		assertEquals("EndsWith7 [names=Joshua Tassone\n]", seven.toString());
+
 	}
 
 }
