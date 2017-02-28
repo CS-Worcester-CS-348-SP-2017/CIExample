@@ -8,7 +8,7 @@ public class EndsWith3 {
 names= "";
 		names+= "Sworup Ojha\n";
 		// add your name here in the form of a line that looks like:
-		// names+= "John Smith\n";
+		names+= "Connor Virzi\n";
 	}
 
 	@Override

@@ -9,7 +9,10 @@ public class EndsWith3Test {
 	@Test
 	public void testToString() {
 		EndsWith3 three = new EndsWith3();
-		assertEquals("EndsWith3 [names=Sworup Ojha\n]", three.toString());
+
+		assertEquals("EndsWith3 [names=Sworup Ojha\nConnor Virzi\n]", three.toString());
+
+
 	}
 
 }
