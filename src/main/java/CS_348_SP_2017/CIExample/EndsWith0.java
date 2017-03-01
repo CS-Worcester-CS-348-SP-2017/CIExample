@@ -14,6 +14,7 @@ public class EndsWith0 {
 		names+="Tyler Lundstrom\n";
 		names+="Benjamin Lagasse\n";
 		names+="Sudarshan T\n";
+	}
 
 
 	@Override

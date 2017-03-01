@@ -11,8 +11,6 @@ public class EndsWith7Test {
 		EndsWith7 seven = new EndsWith7();
 
 		assertEquals("EndsWith7 [names=Joshua Tassone\nHung Huynh\nDaniel Cafferky\n]", seven.toString());
-
-
 	}
 
 }
