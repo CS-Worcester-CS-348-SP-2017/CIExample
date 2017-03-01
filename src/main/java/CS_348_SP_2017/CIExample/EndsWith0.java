@@ -10,8 +10,11 @@ public class EndsWith0 {
 
 		// names+= "John Smith\n"
 
-		names+= "Sudarshan T\nTan Trieu\nTyler Lundstrom\n";
-	}
+		names+="Tan Trieu\n";
+		names+="Tyler Lundstrom\n";
+		names+="Benjamin Lagasse\n";
+		names+="Sudarshan T\n";
+
 
 	@Override
 	public String toString() {
