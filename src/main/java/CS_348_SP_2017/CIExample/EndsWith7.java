@@ -9,8 +9,8 @@ public class EndsWith7 {
 		names+= "Joshua Tassone\n";
 		// add your name here in the form of a line that looks like:
 		// names+= "John Smith\n";
-		names+= "Daniel Cafferky\n";
 		names+= "Hung Huynh\n";
+		names+= "Daniel Cafferky\n";
 	}
 
 	@Override
