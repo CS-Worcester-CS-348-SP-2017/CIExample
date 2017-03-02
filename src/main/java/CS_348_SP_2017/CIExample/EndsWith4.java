@@ -1,7 +1,7 @@
 package CS_348_SP_2017.CIExample;
 
 public class EndsWith4 {
-	
+
 	String names;
 
 	public EndsWith4()  {
