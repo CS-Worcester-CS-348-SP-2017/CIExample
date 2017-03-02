@@ -10,6 +10,8 @@ public class EndsWith6 {
 		// names+= "John Smith\n";
 		names += "Tim Kmiec\n";
 		names += "Luigi Philippeau\n";
+		names += "Haider Hussain\n";
+		
 	}
 
 	@Override
