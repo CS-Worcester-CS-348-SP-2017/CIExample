@@ -8,6 +8,8 @@ public class EndsWith6 {
 		names = "";
 		// add your name here in the form of a line that looks like:
 		// names+= "John Smith\n";
+		names += "Tim Kmiec\n";
+		names += "Luigi Philippeau\n";
 	}
 
 	@Override
